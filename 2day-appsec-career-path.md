@@ -20,7 +20,7 @@
 
 ### Lunch - Open Q&A (1 Hour)
 
-### Offensive Security Engineering
+### Offensive Security Engineering (2 Hours)
 - Free Skills Development
   - Bug Bounty Hunting
   - Open-Source CTFs
@@ -29,3 +29,52 @@
   - Certifications
   - Paid CTFs (HTB, TryHackMe)
   - Class/Tutoring
+ 
+### Defensive Security Engineering (2 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+  - 
+
+
+## Day 2
+
+### Full-Stack Development (1 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+
+### Automation Scripting & AI (1 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+### Cloud Infrastructure Security (1 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+## Lunch - Live Bug Bounty Hunting
+
+### Soft Skills (.5 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+### Sales & Marketing (.5 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+### Brand Building (.5 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+### Education & Story Telling (.5 Hours)
+- Free Skills Development
+  - 
+- Paid Skills Development
+
+### Deep Dives Driven by Audience + Open Q&A (2 hours or more depending on need)
