@@ -17,3 +17,15 @@
   - Sales & Marketing - How to create and position win-win scenarios 
   - Brand Building - Treat yourself as a business and learn to sell yourself
   - Education & Story Telling - Help develop engineers around you with engaging content
+
+### Lunch - Open Q&A (1 Hour)
+
+### Offensive Security Engineering
+- Free Skills Development
+  - Bug Bounty Hunting
+  - Open-Source CTFs
+  - Freelance Pen Testing
+- Paid Skills Development
+  - Certifications
+  - Paid CTFs (HTB, TryHackMe)
+  - Class/Tutoring
